@@ -1,6 +1,5 @@
- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-  * * * * * * * * * * * * Description * * * * * * * * * * * * * * * * * * 
- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Description
+===========
 
 This is a graphical environment for playing card games online.
 You and other players move cards freely on a virtual table. This
@@ -24,9 +23,8 @@ The original plan called for the display to rotate as if players were seated
 at a circular table. The Java version is designed to allow the view to rotate,
 though this code is not currently in use.
 
- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-  * * * * * * * * * * * * * * Controls  * * * * * * * * * * * * * * * * * 
- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Controls
+========
 
 -Left click picks up a card
 -Shift+Left click picks up a pile of cards
@@ -38,9 +36,8 @@ though this code is not currently in use.
 -Shift+Middle click flips a pile of cards on the table if none are held
 -Space creates a random card
 
- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
-  * * * * * * * * * * * * * * Dev Notes * * * * * * * * * * * * * * * * * 
- * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * * *
+Dev notes
+=========
 
 
 
