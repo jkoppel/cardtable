@@ -26,15 +26,15 @@ though this code is not currently in use.
 Controls
 ========
 
--Left click picks up a card
--Shift+Left click picks up a pile of cards
--Right click drops a card
--Shift+Right click drops all cards held
--When no cards are held, drag the mouse over a card to drag it
--Mouse wheel rotates all cards held, or a card on the table if none
--Middle click flips all cards held, or a card on the table if none
--Shift+Middle click flips a pile of cards on the table if none are held
--Space creates a random card
+ - Left click picks up a card
+ - Shift+Left click picks up a pile of cards
+ - Right click drops a card
+ - Shift+Right click drops all cards held
+ - When no cards are held, drag the mouse over a card to drag it
+ - Mouse wheel rotates all cards held, or a card on the table if none
+ - Middle click flips all cards held, or a card on the table if none
+ - Shift+Middle click flips a pile of cards on the table if none are held
+ - Space creates a random card
 
 Dev notes
 =========
