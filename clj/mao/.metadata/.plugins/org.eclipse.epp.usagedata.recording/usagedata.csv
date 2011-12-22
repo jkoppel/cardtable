@@ -1,0 +1,12 @@
+what,kind,bundleId,bundleVersion,description,time
+stopped,bundle,org.eclipse.jem.util,2.0.200.v200905140200,"org.eclipse.jem.util",1260317399926
+stopped,bundle,org.eclipse.tptp.platform.models,4.6.0.v200905180100,"org.eclipse.tptp.platform.models",1260317399926
+stopped,bundle,org.eclipse.tptp.platform.models.hierarchy,4.6.1.v200908290100,"org.eclipse.tptp.platform.models.hierarchy",1260317399937
+stopped,bundle,org.eclipse.birt.chart.engine,2.5.1.v20090902,"org.eclipse.birt.chart.engine",1260317399938
+stopped,bundle,org.eclipse.emf.ecore.xmi,2.5.0.v200906151043,"org.eclipse.emf.ecore.xmi",1260317399939
+stopped,bundle,org.eclipse.tptp.platform.report.core,4.4.200.v200905160100,"org.eclipse.tptp.platform.report.core",1260317399939
+stopped,bundle,org.eclipse.xsd,2.5.0.v200906151043,"org.eclipse.xsd",1260317399940
+stopped,bundle,org.eclipse.tptp.platform.logging.events,4.3.401.v200909111644,"org.eclipse.tptp.platform.logging.events",1260317399941
+stopped,bundle,org.eclipse.emf.ecore,2.5.0.v200906151043,"org.eclipse.emf.ecore",1260317399942
+stopped,bundle,org.eclipse.jdt.apt.core,3.3.201.R35x_v20090818-0235,"org.eclipse.jdt.apt.core",1260317399943
+stopped,bundle,org.eclipse.jdt.core,3.5.1.v_972_R35x,"org.eclipse.jdt.core",1260317400215

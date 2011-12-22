@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+started,bundle,org.eclipse.ui.views,3.4.1.M20090826-0800,"org.eclipse.ui.views",1260317387828
+started,bundle,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"org.eclipse.ui.workbench",1260317387845
+os,sysinfo,,,"macosx",1260317387848
+arch,sysinfo,,,"x86",1260317387848
+ws,sysinfo,,,"cocoa",1260317387848
+locale,sysinfo,,,"en_US",1260317387848
+processors,sysinfo,,,"2",1260317387848
+java.runtime.name,sysinfo,,,"Java(TM) 2 Runtime Environment, Standard Edition",1260317387848
+java.runtime.version,sysinfo,,,"1.5.0_20-b02-315",1260317387848
+java.specification.name,sysinfo,,,"Java Platform API Specification",1260317387848
+java.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1260317387848
+java.specification.version,sysinfo,,,"1.5",1260317387848
+java.vendor,sysinfo,,,"Apple Inc.",1260317387848
+java.version,sysinfo,,,"1.5.0_20",1260317387848
+java.vm.info,sysinfo,,,"mixed mode",1260317387848
+java.vm.name,sysinfo,,,"Java HotSpot(TM) Client VM",1260317387848
+java.vm.specification.name,sysinfo,,,"Java Virtual Machine Specification",1260317387848
+java.vm.specification.vendor,sysinfo,,,"Sun Microsystems Inc.",1260317387848
+java.vm.specification.version,sysinfo,,,"1.0",1260317387848
+java.vm.vendor,sysinfo,,,"Apple Inc.",1260317387848
+java.vm.version,sysinfo,,,"1.5.0_20-141",1260317387848
+activated,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.PackageExplorer",1260317391927
+error,log,,,"Problems occurred opening the selected resources.",1260317392496
+started,bundle,org.eclipse.ltk.core.refactoring,3.5.0.v20090513-2000,"org.eclipse.ltk.core.refactoring",1260317392613
+started,bundle,org.eclipse.ltk.ui.refactoring,3.4.100.v20090604,"org.eclipse.ltk.ui.refactoring",1260317392616

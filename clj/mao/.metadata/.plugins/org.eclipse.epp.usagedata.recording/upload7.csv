@@ -1,0 +1,26 @@
+what,kind,bundleId,bundleVersion,description,time
+error,log,,,"clojure remote call exception",1260307409132
+error,log,,,"clojure remote call exception",1260307409139
+error,log,,,"clojure remote call exception",1260307409142
+error,log,,,"clojure remote call exception",1260307409144
+error,log,,,"clojure remote call exception",1260307409145
+error,log,,,"clojure remote call exception",1260307409147
+error,log,,,"clojure remote call exception",1260307409148
+error,log,,,"clojure remote call exception",1260307409148
+error,log,,,"clojure remote call exception",1260307409150
+error,log,,,"clojure remote call exception",1260307409151
+error,log,,,"clojure remote call exception",1260307409151
+error,log,,,"clojure remote call exception",1260307409152
+error,log,,,"clojure remote call exception",1260307409153
+error,log,,,"clojure remote call exception",1260307409153
+error,log,,,"clojure remote call exception",1260307409154
+error,log,,,"clojure remote call exception",1260307409159
+opened,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1260307410106
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1260307410611
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1260307417443
+deactivated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1260307449154
+activated,workbench,org.eclipse.ui.workbench,3.5.1.M20090826-0800a,"",1260307529613
+activated,view,org.eclipse.ui.console,3.4.0.v20090513,"org.eclipse.ui.console.ConsoleView",1260307530751
+opened,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.TypeHierarchy",1260307531039
+opened,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.JavadocView",1260307531097
+opened,view,org.eclipse.jdt.ui,3.5.1.r351_v20090821-0800,"org.eclipse.jdt.ui.SourceView",1260307531205
