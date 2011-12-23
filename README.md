@@ -12,32 +12,35 @@ Your cursor is represented by a hand icon, called a "manipulator"
 to distinguish from the card game concept. Players can see each other's
 manipulators as they move across and interact with the table and cards.
 
+This repo contains both the original Java version, and its Clojure rewrite.
+The Clojure version is faster, contains more functionality, and a sixth as much code.
+
 The Clojure version also contains a private area for storing cards (e.g.:
 your hand). The Java version lacks this, and is therefore great for playing
-War. The protocol for desynch-checking and rollbacks is not implemented
-in either version, making this impractical for playing people not in the
-same room unless you implement your own concurrency policy
-(i.e.: adhere to a strict turn-taking order).
+War. The protocol for desynch-checking and rollbacks is partially implemented
+in the Java version, and not at all in the Clojureversion, making this impractical
+for playing people not in the same room unless you implement your own concurrency
+policy (i.e.: adhere to a strict turn-taking order).
 
-The original plan called for the display to rotate as if players were seated
-at a circular table. The Java version is designed to allow the view to rotate,
-though this code is not currently in use.
 
 Controls
 ========
 
+Below, a "pile" refers to either a contiguous arrangement of cards on the table, or to all cards held.
+
  - Left click picks up a card
- - Shift+Left click picks up a pile of cards
- - Right click drops a card
- - Shift+Right click drops all cards held
+ - Right click drops a card, with some chaos in where exactly it falls
  - When no cards are held, drag the mouse over a card to drag it
  - Mouse wheel rotates all cards held, or a card on the table if none
  - Middle click flips all cards held, or a card on the table if none
- - Shift+Middle click flips a pile of cards on the table if none are held
  - Space creates a random card
+ - Pile modifier: Holding Ctrl causes an action to apply to a whole pile
+ - Flip modifier: Holding Shift when picking up or dropping combines the action with a flip
+ - Carefulness modifier: Holding Alt when picking up cards straightens their orientation.
+   Holding Alt when dropping cards drops them precisely where they are, without drop chaos.
 
-Dev notes
-=========
+History
+=======
 
 
 
@@ -60,3 +63,8 @@ app competition. The Clojure version is heavily annotated with notes,
 which I've left in for authenticity. Both versions require that the images
 lie in a hard-coded directory. Overall, it's incomplete, but nonetheless
 quite functional, and very engaging.
+
+
+The original plan called for the display to rotate as if players were seated
+at a circular table. The Java version is designed to allow the view to rotate,
+though this code is not currently in use.
